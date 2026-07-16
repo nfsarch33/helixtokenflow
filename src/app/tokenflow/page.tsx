@@ -20,9 +20,7 @@ export default function TokenFlowLandingPage() {
       </p>
       <h1 className="mt-2 text-4xl font-semibold tracking-tight">TokenFlow</h1>
       <p className="mt-4 max-w-2xl text-lg text-gray-700">
-        Buy LLM tokens and route them through LiteLLM at{" "}
-        <code className="rounded bg-surface-muted px-1.5 py-0.5 text-sm">litellm.cylrl.dev</code>{" "}
-        or our LLM router at{" "}
+        Buy LLM tokens and route them through our LLM router at{" "}
         <code className="rounded bg-surface-muted px-1.5 py-0.5 text-sm">llm-router.cylrl.dev</code>.
         No account required for the pilot demo.
       </p>

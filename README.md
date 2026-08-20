@@ -40,9 +40,7 @@ bun run dev     # next dev
 
 ## Origin
 
-Extracted from `helixon-monorepo` (Apache-2.0) in `v18648-1` of the v18648-v18651
-operator-away range. CF-2026-07-15-037 closed; see
-[handoff evidence](https://github.com/nfsarch33/cursor-global-kb/blob/main/session-handoffs/evidence/2026-07-16-win3-wsl3-v18648-1-helixtokenflow-extraction.md).
+Extracted from `helixon-monorepo` (Apache-2.0).
 
 ## License
 
